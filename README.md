@@ -1,2 +1,2 @@
 # restaurant-page
-asx
+https://amala2118.github.io/restaurant-page/
